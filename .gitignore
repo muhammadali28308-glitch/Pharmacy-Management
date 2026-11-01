@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+ml_env/
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# Private pharmacy data
+medicines.json
+sales.json
+pharmacy_settings.json
+
+# IDE settings
+.vscode/
+# Private receipts and ZIP backups
+*.zip
+receipt_*.html
